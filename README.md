@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](Microbit Makecode)
+* open [https://makecode.microbit.org/] (Microbit Makecode)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/daneeskripter/microbit-movegame** and import
@@ -14,7 +14,7 @@ This repository can be added as an **extension** in MakeCode.
 
 To edit this repository in MakeCode.
 
-* open [https://makecode.microbit.org/](Microbit Makecode)
+* open [https://makecode.microbit.org/] (Microbit Makecode)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/daneeskripter/microbit-movegame** and click import
 
