@@ -1,5 +1,5 @@
 
-> Microbit MoveGame [https://daneeskripter.github.io/microbit-movegame/](Click here!)
+> Microbit MoveGame [https://daneeskripter.github.io/microbit-movegame/]
 
 ## Use as Extension
 
